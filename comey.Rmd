@@ -1,5 +1,5 @@
 ---
-title: "Did James Comey influence the 2016 U.S. presidential election? A public analysis."
+title: "How did polls change around the time of F.B.I. Director Comey's letter to Congress? A public analysis."
 output: 
   html_notebook: 
     theme: journal
