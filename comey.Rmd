@@ -16,7 +16,7 @@ Being a data scientist / statistician, I thought the apparent hook in polls was 
 
 There are many ways to fit a model to data. I'm reminded of statistician George Box's, "[All models are wrong but some are useful](https://en.wikipedia.org/wiki/All_models_are_wrong)." To answer the question of how polls shifted prior to the election and whether F.B.I. Director James Comey's letter to Congress on **October 28th, 2016** had an influence in the election, I propose this: **if you're a statistician or scientist, join me by forking this repository and creating your own analysis**.
 
-Then submit a pull request back to this repository and we can critique, refine, debate, improve and ultimately generate the necessary credibility to reduce uncertainty about this important question.
+[Then submit a pull request back to this repository](https://github.com/statwonk/comey) and we can critique, refine, debate, improve and ultimately generate the necessary credibility to reduce uncertainty about this important question.
 
 Maybe the letter didn't effect the election, maybe it did? ¯\\_(ツ)_/¯ Let's see if we can reduce uncertainy around the answer to that question.
 
